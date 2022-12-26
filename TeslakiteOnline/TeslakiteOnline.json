@@ -1,0 +1,53 @@
+{
+    "tweets": [
+        {
+            "id": 480905620682309632,
+            "user_id": 2583179197,
+            "created_at": 1403491809,
+            "text": "当ツイッター・アカウントではお知らせツイート等を行っておりません。\nテスラカイト・オンラインショップに関する情報は「平沢進・公式サイト　@Hirasawa_Info」にてお知らせします。平沢進本人のツイートは「Susumu Hirasawa　@hirasawa」をご覧ください。",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "retweet_count": 9,
+            "like_count": 18,
+            "reply_count": 0,
+            "quote_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_screen_name": null,
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 480905620682309632,
+            "media": [],
+            "coordinates": null,
+            "geo": null,
+            "place": null
+        }
+    ],
+    "users": [
+        {
+            "id": 2583179197,
+            "screen_name": "TeslakiteOnline",
+            "name": "テスラカイト",
+            "description": "テスラカイトに関する情報は「平沢進・公式サイト　@Hirasawa_Info」にてお知らせいたします。平沢進本人のツイートは「Susumu Hirasawa　@hirasawa」をご覧ください。当アカウントでは、お知らせツイート等はございません。 なお「TESLAKITE」は有限会社ケイオスユニオンの登録商標です。",
+            "location": "",
+            "url": "http://shop.teslakite.com",
+            "followers_count": 2412,
+            "friends_count": 7,
+            "statuses_count": 1,
+            "favourites_count": 0,
+            "created_at": 1403489476,
+            "protected": false,
+            "verified": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "is_cryptobro": false,
+            "clown_emoji": false,
+            "profile_image": "https://pbs.twimg.com/profile_images/480902569414246400/0oumoOw3.jpeg",
+            "profile_image_s": "https://pbs.twimg.com/profile_images/480902569414246400/0oumoOw3_normal.jpeg",
+            "profile_banner": ""
+        }
+    ]
+}
