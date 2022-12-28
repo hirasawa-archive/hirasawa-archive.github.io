@@ -1,0 +1,499 @@
+{
+    "tweets": [
+        {
+            "id": 1606222407148408833,
+            "user_id": 972814344315482112,
+            "created_at": 1671788238,
+            "text": "今年の店舗営業は終了しました\n来年もよろしくお願いしますー\n#KENJUキッチン ",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "retweet_count": 29,
+            "like_count": 146,
+            "reply_count": 1,
+            "quote_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_screen_name": null,
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 1606222407148408833,
+            "media": [
+                {
+                    "id": 1606222403843272704,
+                    "media_key": null,
+                    "source_user_id": null,
+                    "type": "photo",
+                    "url": "https://pbs.twimg.com/media/FkpyxCNaMAAZGD7.jpg",
+                    "alt_text": "",
+                    "possibly_sensitive": null,
+                    "width": 860,
+                    "height": 614,
+                    "variants": null,
+                    "aspect_ratio": 1.40065
+                }
+            ],
+            "coordinates": null,
+            "geo": null,
+            "place": {
+                "id": "14eba6b363d57002",
+                "url": "https://api.twitter.com/1.1/geo/id/14eba6b363d57002.json",
+                "place_type": "poi",
+                "name": "KENJUキッチン",
+                "full_name": "KENJUキッチン",
+                "country_code": "JP",
+                "country": "Japan",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            }
+        },
+        {
+            "id": 1600427423996456960,
+            "user_id": 972814344315482112,
+            "created_at": 1670406607,
+            "text": "@gazio_info ありがとうございます\nSNSは怖いけど…\nもう少し頑張りますー",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "retweet_count": 5,
+            "like_count": 56,
+            "reply_count": 0,
+            "quote_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": 1600408793195872256,
+            "in_reply_to_user_id": 3010755584,
+            "in_reply_to_screen_name": "gazio_info",
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 1600408793195872256,
+            "media": [],
+            "coordinates": null,
+            "geo": null,
+            "place": {
+                "id": "14eba6b363d57002",
+                "url": "https://api.twitter.com/1.1/geo/id/14eba6b363d57002.json",
+                "place_type": "poi",
+                "name": "KENJUキッチン",
+                "full_name": "KENJUキッチン",
+                "country_code": "JP",
+                "country": "Japan",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            }
+        },
+        {
+            "id": 1598285985225506817,
+            "user_id": 972814344315482112,
+            "created_at": 1669896048,
+            "text": "@danceheno ありがとうございます",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "retweet_count": 0,
+            "like_count": 2,
+            "reply_count": 0,
+            "quote_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": 1598109439370104833,
+            "in_reply_to_user_id": 1478218143298629632,
+            "in_reply_to_screen_name": "danceheno",
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 1597913890222125059,
+            "media": [],
+            "coordinates": null,
+            "geo": null,
+            "place": {
+                "id": "14eba6b363d57002",
+                "url": "https://api.twitter.com/1.1/geo/id/14eba6b363d57002.json",
+                "place_type": "poi",
+                "name": "KENJUキッチン",
+                "full_name": "KENJUキッチン",
+                "country_code": "JP",
+                "country": "Japan",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            }
+        },
+        {
+            "id": 1598100063578124290,
+            "user_id": 972814344315482112,
+            "created_at": 1669851721,
+            "text": "@motoryo8 ありがとうございます",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "retweet_count": 0,
+            "like_count": 0,
+            "reply_count": 0,
+            "quote_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": 1598086899809554432,
+            "in_reply_to_user_id": 3115245596,
+            "in_reply_to_screen_name": "motoryo8",
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 1597915057421443072,
+            "media": [],
+            "coordinates": null,
+            "geo": null,
+            "place": {
+                "id": "14eba6b363d57002",
+                "url": "https://api.twitter.com/1.1/geo/id/14eba6b363d57002.json",
+                "place_type": "poi",
+                "name": "KENJUキッチン",
+                "full_name": "KENJUキッチン",
+                "country_code": "JP",
+                "country": "Japan",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            }
+        },
+        {
+            "id": 1597943457141886977,
+            "user_id": 972814344315482112,
+            "created_at": 1669814383,
+            "text": "@musimushi_uho ありがとうございます",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "retweet_count": 0,
+            "like_count": 1,
+            "reply_count": 0,
+            "quote_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": 1597939106100969473,
+            "in_reply_to_user_id": 1526207878981652481,
+            "in_reply_to_screen_name": "musimushi_uho",
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 1597916873068548096,
+            "media": [],
+            "coordinates": null,
+            "geo": null,
+            "place": {
+                "id": "14eba6b363d57002",
+                "url": "https://api.twitter.com/1.1/geo/id/14eba6b363d57002.json",
+                "place_type": "poi",
+                "name": "KENJUキッチン",
+                "full_name": "KENJUキッチン",
+                "country_code": "JP",
+                "country": "Japan",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            }
+        },
+        {
+            "id": 1597933983647805440,
+            "user_id": 972814344315482112,
+            "created_at": 1669812124,
+            "text": "@yuh2532 ありがとうございます",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "retweet_count": 0,
+            "like_count": 0,
+            "reply_count": 0,
+            "quote_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": 1597932383918903296,
+            "in_reply_to_user_id": 85351160,
+            "in_reply_to_screen_name": "yuh2532",
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 1597916042676023297,
+            "media": [],
+            "coordinates": null,
+            "geo": null,
+            "place": {
+                "id": "14eba6b363d57002",
+                "url": "https://api.twitter.com/1.1/geo/id/14eba6b363d57002.json",
+                "place_type": "poi",
+                "name": "KENJUキッチン",
+                "full_name": "KENJUキッチン",
+                "country_code": "JP",
+                "country": "Japan",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            }
+        },
+        {
+            "id": 1597931918699659264,
+            "user_id": 972814344315482112,
+            "created_at": 1669811632,
+            "text": "@yappy4902 ありがとうございます",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "retweet_count": 0,
+            "like_count": 1,
+            "reply_count": 0,
+            "quote_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": 1597928738703831040,
+            "in_reply_to_user_id": 1485923105168306178,
+            "in_reply_to_screen_name": "yappy4902",
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 1597915057421443072,
+            "media": [],
+            "coordinates": null,
+            "geo": null,
+            "place": {
+                "id": "14eba6b363d57002",
+                "url": "https://api.twitter.com/1.1/geo/id/14eba6b363d57002.json",
+                "place_type": "poi",
+                "name": "KENJUキッチン",
+                "full_name": "KENJUキッチン",
+                "country_code": "JP",
+                "country": "Japan",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            }
+        },
+        {
+            "id": 1597914703652847618,
+            "user_id": 972814344315482112,
+            "created_at": 1669807527,
+            "text": "@Yukichi_chesed ありがとうございます",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "retweet_count": 0,
+            "like_count": 2,
+            "reply_count": 0,
+            "quote_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "in_reply_to_status_id": 1597914431312531456,
+            "in_reply_to_user_id": 1285021329557606400,
+            "in_reply_to_screen_name": "Yukichi_chesed",
+            "is_quote_status": false,
+            "self_thread_id": null,
+            "conversation_id": 1597913890222125059,
+            "media": [],
+            "coordinates": null,
+            "geo": null,
+            "place": {
+                "id": "14eba6b363d57002",
+                "url": "https://api.twitter.com/1.1/geo/id/14eba6b363d57002.json",
+                "place_type": "poi",
+                "name": "KENJUキッチン",
+                "full_name": "KENJUキッチン",
+                "country_code": "JP",
+                "country": "Japan",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ],
+                            [
+                                140.11685484046706,
+                                36.00435181308884
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            }
+        }
+    ],
+    "users": [
+        {
+            "id": 972814344315482112,
+            "screen_name": "KENJU_yasai",
+            "name": "KENJU KITCHEN",
+            "description": "【土日営業11:00~】 | 全ての食材が植物性食品 | 一人二人食事専門店/ 分かれて座るのもNGです/ 通販はこちら→ http://kenju.base.shop",
+            "location": "茨城県 つくば市高崎1371-5",
+            "url": "https://youtu.be/fhnbtstnpjo",
+            "followers_count": 4291,
+            "friends_count": 22,
+            "statuses_count": 12,
+            "favourites_count": 20522,
+            "created_at": 1520771988,
+            "protected": false,
+            "verified": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "is_cryptobro": false,
+            "clown_emoji": false,
+            "profile_image": "https://pbs.twimg.com/profile_images/1304364301646397442/OnjUrEVp.jpg",
+            "profile_image_s": "https://pbs.twimg.com/profile_images/1304364301646397442/OnjUrEVp_normal.jpg",
+            "profile_banner": "https://pbs.twimg.com/profile_banners/972814344315482112/1599819659"
+        }
+    ]
+}
